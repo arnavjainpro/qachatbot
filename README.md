@@ -1,6 +1,6 @@
 # QA Chatbot
 
-Welcome to the QA Chatbot project, an advanced question-answering system leveraging the Gemini API to deliver precise and contextually relevant responses. This chatbot utilizes the Generative Model from Google’s Gemini API and is built with Streamlit for an interactive and efficient user experience.
+Welcome to the QA Chatbot project, an advanced question-answering system leveraging the Gemini API to deliver precise and contextually relevant responses. This chatbot utilizes the Generative Model from Google’s Gemini API and is built with Streamlit for an interactive and efficient user experience..
 
 ## Key Features
 
